@@ -10,7 +10,7 @@ Pod::Spec.new do |s|
   s.homepage         = 'https://github.com/armandsavotins/'
   s.license          = { :type => 'Apache 2.0', :file => 'LICENSE' }
   s.author           = { 'Armands' => 'armands.avotins@gmail.com' }
-  s.source           = { :git => 'https://github.com/themonetizr/monetizr-ios-sdk.git', :tag => s.version.to_s }
+  s.source           = { :git => 'https://github.com/armandsavotins/Stripe-lint-test.git', :tag => s.version.to_s }
  
   s.swift_version = "5.0"
   s.ios.deployment_target = '11.0'
