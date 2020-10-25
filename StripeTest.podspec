@@ -17,6 +17,6 @@ Pod::Spec.new do |s|
   s.source_files = ['Source/*.{swift}']
 
   s.framework = "UIKit"
-  s.dependency 'Stripe'
+  s.dependency 'Stripe', '~> 20.1.1'
  
 end
